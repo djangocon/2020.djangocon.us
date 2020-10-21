@@ -3,7 +3,7 @@ author: Katia Lira
 category: General
 date: 2020-10-21 11:00:00
 layout: post
-image: /static/img/blog/announcing-2019.png
+image: /static/img/blog/2020-videohug.png
 title: "DjangoCon US 2020 Video Celebration"
 ---
 
