@@ -1,6 +1,6 @@
-# 2020.djangocon.us Website
+# 2020.djangocon.us
 
-[![Build Status](https://travis-ci.org/djangocon/2020.djangocon.us.svg?branch=master)](https://travis-ci.org/djangocon/2020.djangocon.us) [![Contributors](https://img.shields.io/github/contributors/djangocon/2020.djangocon.us.svg)](https://github.com/djangocon/2020.djangocon.us/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/djangocon/2020.djangocon.us.svg)](https://github.com/djangocon/2020.djangocon.us/graphs/contributors)
 
 The 2020 DjangoCon.us website is a static site compiled with [Jekyll](https://jekyllrb.com/docs/home/). The frontend relies heavily on the [Foundation](http://foundation.zurb.com/sites/docs/) framework. Frontend dependencies are installed and updated with [npm](https://www.npmjs.com/).
 
